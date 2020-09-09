@@ -6,6 +6,7 @@ Node Express Handlebars
 * Added public folder with CS, JS and added screenshot
 * Added Js an db
 * Project in progres
+* the project is not finished I can't fix error
 
 ### Directory structure
 ```
